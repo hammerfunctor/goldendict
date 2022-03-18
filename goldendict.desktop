@@ -1,10 +1,10 @@
 [Desktop Entry]
 Name=GoldenDict
-GenericName=GoldenDict
-Comment=GoldenDict
+GenericName=Multiformat Dictionary
+Comment=A feature-rich dictionary lookup program
 Exec=/usr/bin/goldendict
 Terminal=false
 Type=Application
-Icon=GoldenDict
-Categories=GoldenDict
+Icon=goldendict
+Categories=Office;Dictionary;Education;Qt;
 StartupNotify=false
